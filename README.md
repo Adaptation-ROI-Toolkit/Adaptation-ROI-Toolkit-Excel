@@ -1,5 +1,5 @@
 [Version française](#version-française)
-# Adaptation Return on Investments Toolkit - Excel version
+# Adaptation Return on Investment Toolkit - Excel version
 
 The Adaptation Return on Investment (RoI) Toolkit is a tool used to evaluate the benefits gained from investments of resources into adaptation projects. The RoI Tookit will assist with the evaluation of the economic, social, and environmental impacts that leads to a comprehensive analysis of the return on investment for designing and implementing adaptation projects that will mutually reduce disaster risks and adapt to climate change.
 
