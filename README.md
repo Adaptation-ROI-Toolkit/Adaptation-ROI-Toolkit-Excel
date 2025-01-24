@@ -16,7 +16,7 @@ The Adaptation RoI Toolkit is a free software application that helps decision-ma
 
 ## Download the Excel-based Toolkit and its reference manuals here:
 
-[Adaptation RoI Toolkit](https://github.com/Adaptation-ROI-Toolkit/Adaptation-ROI-Toolkit-Excel/raw/refs/heads/main/ROI_Toolkit_v1.xlsm)
+[Adaptation RoI Toolkit](https://github.com/Adaptation-ROI-Toolkit/Adaptation-ROI-Toolkit-Excel/raw/refs/heads/main/ROI_Toolkit_v1.1.xlsm)
 
 [User Manual](https://github.com/Adaptation-ROI-Toolkit/Adaptation-ROI-Toolkit-Excel/raw/refs/heads/main/Ref%20Guide_Adaptation%20RoI.pdf)
 
@@ -55,7 +55,7 @@ L'outil RSI d'adaptation est une application logicielle [gratuite]{.underline} q
 
 ## Téléchargez l'outil basé sur Excel et ses manuels de référence ici :
 
-[Outil RSI d'adaptation (en anglais seulement pour le moment)](https://github.com/Adaptation-ROI-Toolkit/Adaptation-ROI-Toolkit-Excel/raw/refs/heads/main/ROI_Toolkit_v1.xlsm)
+[Outil RSI d'adaptation (en anglais seulement pour le moment)](https://github.com/Adaptation-ROI-Toolkit/Adaptation-ROI-Toolkit-Excel/raw/refs/heads/main/ROI_Toolkit_v1.1.xlsm)
 
 [Manuel de l'utilisateur (en anglais seulement pour le moment)](https://github.com/Adaptation-ROI-Toolkit/Adaptation-ROI-Toolkit-Excel/raw/refs/heads/main/Ref%20Guide_Adaptation%20RoI.pdf)
 
